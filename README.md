@@ -19,3 +19,5 @@ Third-party software:
 2. MP4/MOV files recovering 
    recover_mp4 v1.72 (C) 2011-2016 Dmitry Vasilyev
    http://slydiman.me
+   
+Is the project infringing copyright? Please let me know.
