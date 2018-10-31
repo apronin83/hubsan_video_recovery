@@ -1,0 +1,21 @@
+object VideoForm: TVideoForm
+  Left = 0
+  Top = 0
+  BorderStyle = bsSizeToolWin
+  Caption = 'VideoForm'
+  ClientHeight = 270
+  ClientWidth = 419
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  Scaled = False
+  OnCreate = FormCreate
+  OnDestroy = FormDestroy
+  PixelsPerInch = 96
+  TextHeight = 13
+end
