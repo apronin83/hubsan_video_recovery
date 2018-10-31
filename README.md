@@ -1,7 +1,13 @@
 # Hubsan H501S-SS Video Recovery
 
+The project of the application for the recovery of video from drone Hubsan H501S-H501SS.
+
+Supported languages:
+1. English
+2. Russian
+
 RAD Embarcadero® Delphi 10.2
-   
+
 Components:
 1. Pipe components by Russell Libby
    Version: 1.01
