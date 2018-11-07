@@ -6,14 +6,14 @@
 ; Do not use the same AppId value in installers for other applications.
 ; (To generate a new GUID, click Tools | Generate GUID inside the IDE.)
 AppId={{5F775906-4341-4EEF-B690-9996F1CF1EF6}
-AppName=Hubsan H501S-SS Video Recovery
+AppName=Hubsan H501S-SS Video Recovery (32 bit)
 AppVersion=1.0
 ;AppVerName=Hubsan H501S-SS Video Recovery 1.0
 AppPublisher=Pronin
 DefaultDirName={pf}\Hubsan_H501S-SS_VideoRecovery
 DisableProgramGroupPage=yes
 OutputDir=C:\PROJECTS\Delphi\InnoSetupProjects\HubsanVideoRecovery
-OutputBaseFilename=HubsanVideoRecovery
+OutputBaseFilename=HubsanVideoRecovery-x86
 SetupIconFile=C:\PROJECTS\Delphi\InnoSetupProjects\HubsanVideoRecovery\compress_table.ico
 Compression=lzma
 SolidCompression=yes
